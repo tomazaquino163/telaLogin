@@ -35,6 +35,12 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 40px;
-    background-color: #ece88ff;
+    background-color: #ece8ff;
     border-radius: 50%;
+}
+
+h1{
+    text-align: center;
+    color: #333;
+    margin-bottom: 8px;
 }
