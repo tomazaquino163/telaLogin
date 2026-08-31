@@ -44,3 +44,45 @@ h1{
     color: #333;
     margin-bottom: 8px;
 }
+
+.subtitulo{
+   text-align: center;
+   color: #777;
+   margin-bottom: 25px; 
+}
+
+label{
+ display:block;
+ color: #444;
+ font-weight: bold;
+ margin-top: 15px;
+ margin-bottom: 6px;   
+}
+
+input{
+    width: 100%;
+    padding: 13px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+}
+
+input:focus{
+    border-color: #6a11cb;
+    box-shadow: 0 0 8px rgba(106, 17, 203, 0.25);
+}
+
+button{
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
